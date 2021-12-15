@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CVE_2021_23758", "CVE_2021_23758.csproj", "{29FDC912-54A7-4E2A-BFCA-2B97C81BAE41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AjaxPro", "..\..\..\Desktop\Ajax.NET-Professional-21.10.30.1\Ajax.NET-Professional-21.10.30.1\AjaxPro\AjaxPro.csproj", "{9AD42568-07A4-4D8B-9C6D-1FD54683EF4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29FDC912-54A7-4E2A-BFCA-2B97C81BAE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FDC912-54A7-4E2A-BFCA-2B97C81BAE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FDC912-54A7-4E2A-BFCA-2B97C81BAE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FDC912-54A7-4E2A-BFCA-2B97C81BAE41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD42568-07A4-4D8B-9C6D-1FD54683EF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD42568-07A4-4D8B-9C6D-1FD54683EF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD42568-07A4-4D8B-9C6D-1FD54683EF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD42568-07A4-4D8B-9C6D-1FD54683EF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CCAA1D4-4DDD-4A58-8F85-B67E02CCB5E6}
+	EndGlobalSection
+EndGlobal
